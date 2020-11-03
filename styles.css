@@ -9,8 +9,15 @@ body {
     align-items: center;
     justify-content: center;
     height: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h2 {
-    margin: 1rem;
+    margin: 0.5rem;
+    font-size: 4rem;
+}
+
+h3 {
+    font-size: 2rem;
+    
 }
